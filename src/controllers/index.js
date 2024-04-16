@@ -1,5 +1,5 @@
-import { LinkedList } from "../LinkedList.mjs";
-import { Music } from "../Music.mjs";
+import { LinkedList } from "../models/LinkedList.mjs";
+import { Music } from "../models/Music.mjs";
 
 const audio = document.querySelector("audio");
 const titulo = document.querySelector("h1");
